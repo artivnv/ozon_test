@@ -3,8 +3,10 @@
 Написать минимум 3 тест кейса на любой из GET методов в API и минимум 3 на любой из POST методов.
 ### 1.2
 (по желанию) Автоматизировать/попытаться автоматизировать тесты на любом ЯП (предпочтительно Python).
-Ссылка на API - https://jsonplaceholder.typicode.com/
-Guide - https://jsonplaceholder.typicode.com/guide.html
+
+* Ссылка на API - https://jsonplaceholder.typicode.com/
+* Guide - https://jsonplaceholder.typicode.com/guide/
+
 Тест кейсы можно оформить в любом текстовом файле или отправить текстом в письме.
 Код для второго задания (если имеется) можно отправить архивом или ссылкой на любой из хостингов (github, gitlab и т.д.)
 
